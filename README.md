@@ -1,2 +1,2 @@
 # wrapper-online-v2-cancelled
-When wrapper online was coming back, i was working on a v2 version. Heres all the progress i got (it isnt very good progress)
+When wrapper online was coming back, I worked on a v2 version. Here is all the progress I got (it isn't very good progress)
